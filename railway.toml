@@ -1,0 +1,11 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python bot.py"
+
+# Environment variables
+[env]
+BOT_TOKEN = "6725093639:AAH37iDD9dx9IKSCo19_luR-VIsqwCkG9_s"
+ADMIN_ID = "2113863377"
+CHANNEL_ID = "@Best_Studios"
